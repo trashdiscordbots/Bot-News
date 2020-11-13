@@ -7,8 +7,8 @@ Get News about us and our Bots!
 
 
 ###### Some Links
-> Our Website that we are releasing soon: https://trashdiscordbots.web.app/
-> Join our Discord-Server! https://trashdiscordbots.web.app/discord
+> Join our Discord-Server and test the bots or invite them to your server! 
+> https://trashdiscordbots.web.app/discord
 
 <center>
 <img src="https://trashdiscordbots.web.app/assets/images/github--logo.png" width="auto" height="250px">
