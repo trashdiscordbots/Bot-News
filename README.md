@@ -1,6 +1,9 @@
 # Trash Discord-Bots News
 Get News about us and our Bots!
 
+## Issue with ye del command
+- the ye del command can be used by any user - we have disabled the command for all bots until we have a solution
+
 ## New Patch-Notes online!
 - Hey everyone! Our new Patch-Notes are online now! 
 - https://github.com/trashdiscordbots/patch-notes
