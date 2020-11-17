@@ -20,6 +20,11 @@ Get News about us and our Bots!
 - We present you new Features, APIs and commands on 15th Nov. 2020!
 > Stay tuned!
 
+- --
+### Invite our Bot to your Server!
+- > https://chrstn-global.web.app/dc-bot-invite-gen/?id=774977506935570432
+
+
 <center>
 <img src="https://trashdiscordbots.web.app/assets/images/github--logo.png" width="auto" height="250px">
 </center>
