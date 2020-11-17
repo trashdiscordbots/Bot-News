@@ -1,6 +1,10 @@
 # Trash Discord-Bots News
 Get News about us and our Bots!
 
+## New Commands
+- We are releasing new commands with new features today!
+- >https://github.com/trashdiscordbots/patch-notes
+
 ## New Performance Fix
 - We have temporary deactivated the NSFW-Spoiler function for NSFW Content due to performance problems.
 - we activate the feature, when a solution is found
