@@ -2,13 +2,8 @@
 Join our Discord-Server! https://discord.gg/dJe6h5A2Xm
 TrashMemer is a Discord-Bot that provides you A TON of Memes, Food & Cars to your Discord-Server!
 
-
-
-## Open-Source
-This project is not open-source yet because of our own API that we are using in our Bots. When we launch the API for public, the source-code of the Bot gets Published! :)
-
-## Using
-There is no setup needed. You just invite the Bot and you can start using it!
+## Known Bugs
+> There are no Bugs known. If you should find one, contact us on our Discord-Server or here: tdb.global@yandex.com
 
 ## Commands
 - To get the current list of commands visit: https://github.com/trashdiscordbots/commands
@@ -50,7 +45,6 @@ There is no setup needed. You just invite the Bot and you can start using it!
 ## New Features
 - Upper & lower case are ignored: You can also enter a command like this: YE MeMe
 - NSFW-Commands: Cant be used when channel is not set on NSFW
-
 
 ## Support
 If you need Support from our Developer Team or have any questions about our Bots write us here: tdb.global@yandex.com
