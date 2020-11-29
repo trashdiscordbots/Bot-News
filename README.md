@@ -1,4 +1,4 @@
-# TrashMemer Discord-Bot
+# TrashMemer
 Join our Discord-Server! https://discord.gg/dJe6h5A2Xm
 TrashMemer is a Discord-Bot that provides you A TON of Memes, Food & Cars to your Discord-Server!
 
